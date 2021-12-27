@@ -34,8 +34,8 @@ In this topic, 04 classification models, which are RF, CNN, SVM and KNN, are use
 
 # Result 
 
-	    Accuracy	Precision	Recall	    F1-score
-    RF	90.15 % 	90.15 %	    90.15 %	    90.15 %
-    KNN	86.01 %	    86.01 %	    86.01 %	    86.01 %
-    SVM	88.98 %	    88.98 %	    88.98 %	    88.98 %
-    CNN	85.56 %	    85.56 %	    85.56 %	    85.56 %
+        Accuracy    Precision   Recall      F1-score
+    RF  90.15 %     90.15 %     90.15 %     90.15 %
+    KNN 86.01 %     86.01 %     86.01 %     86.01 %
+    SVM 88.98 %     88.98 %     88.98 %     88.98 %
+    CNN 85.56 %     85.56 %     85.56 %     85.56 %
