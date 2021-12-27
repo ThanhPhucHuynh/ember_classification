@@ -22,15 +22,15 @@ In this topic, 04 classification models, which are RF, CNN, SVM and KNN, are use
 
     - Adware
 
-    ![Adware](data_group_csv\images_dir_gray_128\Adware\00cb25df2aba768c52c7682354cf77a8f7a131290f61c7bbfd1d047318fb3d9a.png)
+    ![Adware](./data_group_csv/images_dir_gray_128/Adware/00cb25df2aba768c52c7682354cf77a8f7a131290f61c7bbfd1d047318fb3d9a.png)
 
      - Agent
 
-    ![Agent](data_group_csv\images_dir_gray_128\Adware\00cb25df2aba768c52c7682354cf77a8f7a131290f61c7bbfd1d047318fb3d9a.png)
+    ![Agent](./data_group_csv/images_dir_gray_128/Adware/00cb25df2aba768c52c7682354cf77a8f7a131290f61c7bbfd1d047318fb3d9a.png)
 
      - Downloader
      
-    ![Downloader](data_group_csv\images_dir_gray_128\Downloader\0c4523e9ca8d919000a87a69c2a0609b3a2821207c8b2a26464aa7ea712323bd.png)
+    ![Downloader](./data_group_csv/images_dir_gray_128/Downloader/0c4523e9ca8d919000a87a69c2a0609b3a2821207c8b2a26464aa7ea712323bd.png)
 
 # Result 
 
